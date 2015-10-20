@@ -41,3 +41,6 @@ Thumbs.db
 .idea/datasources.xml
 .idea/dataSources.ids
 .idea/libraries
+
+# add app.iml file
+app.iml
